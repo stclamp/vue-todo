@@ -1,0 +1,18 @@
+<template>
+  <svg height="21" viewBox="0 0 20 20" width="21" xmlns="http://www.w3.org/2000/svg">
+    <g
+      style="
+        stroke: #ff473e;
+        stroke-width: 2;
+        fill: none;
+        fill-rule: evenodd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      "
+      transform="translate(-2 -2)"
+    >
+      <circle cx="12" cy="12" r="9" />
+      <path d="m15 9-6 6m6 0-6-6" />
+    </g>
+  </svg>
+</template>
